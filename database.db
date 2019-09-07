@@ -1,0 +1,2 @@
+{"id":2,"type":"PullEvent","actor":{"id":2,"login":"Precious","avatar_url":"https://avatar.com/2"},"repo":{"id":2,"name":"Precious/Bosah","url":"https://github.com/Precious"},"_id":"tFTdDlWT1BxdyYow","createdAt":{"$$date":1567865018589},"updatedAt":{"$$date":1567865018589}}
+{"id":1,"type":"PullEvent","actor":{"id":1,"login":"Victor","avatar_url":"https://avatar.com/1"},"repo":{"id":1,"name":"Victor/Umezuruike","url":"https://github.com/Victor"},"_id":"zquq8QNM9DUmxkZj","createdAt":{"$$date":1567864973176},"updatedAt":{"$$date":1567864973176}}

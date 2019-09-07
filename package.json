@@ -1,0 +1,19 @@
+{
+  "name": "git_event_tracker",
+  "version": "1.0.0",
+  "description": "git event tracker api",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "author": "Victor Umezuruike",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
